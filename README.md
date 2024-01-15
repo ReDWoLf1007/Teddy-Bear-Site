@@ -9,6 +9,7 @@ It contains numerous things such as-
 06. It will contain some more details as I add them moving forward and I will mention them as they get added.
 -I know it's child's play compared to everything on this platform, but I am very proud of my accomplishments and just wanted to show them.
 
+**It is on hault because of my other projects but I will soon start working on it.**
 # Languages:
 # HTML
 HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes, and other items. HTML elements are delineated by tags, written using angle brackets. Tags such as <img> and <input> directly introduce content into the page.
